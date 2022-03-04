@@ -1,1 +1,5 @@
 Hello, THIS IS PRACTICE !!!
+
+This line of text represents a realease of our code at version 1.0.0.
+
+starting working on new feature ! it is very cool !!!
